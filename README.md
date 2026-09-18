@@ -15,5 +15,7 @@
 - 구매 추가 했음
 ## 푸터 추가
 - 푸터 추가 했음
+## sidebar 추가 
+- sidebar 추가 했음
 ## search 추가
 - search 추가 했음
