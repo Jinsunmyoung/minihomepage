@@ -19,3 +19,4 @@
 - sidebar 추가 했음
 ## search 추가
 - search 추가 했음
+## footer 다시 추가
